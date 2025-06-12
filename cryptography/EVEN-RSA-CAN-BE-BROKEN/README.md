@@ -1,4 +1,3 @@
-cat <<EOF > cryptography/EVEN-RSA-CAN-BE-BROKEN/README.md
 # 🧠 Challenge: EVEN RSA CAN BE BROKEN
 
 **Kategori:** cryptography  
