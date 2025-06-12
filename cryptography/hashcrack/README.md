@@ -1,4 +1,3 @@
-cat <<EOF > cryptography/hashcrack/README.md
 # 🧠 Challenge: hashcrack
 
 **Kategori:** cryptography  
