@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 # 🧠 picoCTF Writeups
 
 Kumpulan write-up dari challenge picoCTF yang telah kuselesaikan, repositori ini kubuat untuk dokumentasi perjalananku di CTF.
